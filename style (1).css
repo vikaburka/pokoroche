@@ -1,0 +1,7 @@
+article p:first-child {font-size: medium; font-weight: bold;} 
+article p:last-child {font-size: medium; font-weight: bold;}
+a:link,
+a:visited {color: #F0F8FF; font-weight: bolder}
+a:hover {color:hotpink;}   
+
+
